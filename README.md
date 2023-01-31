@@ -6,7 +6,7 @@ I"m most interested in opporutinities in:
 * 🧼 clean energy
 * 🌲 environment
 * 🏋️ fitness and wellbeing 
-* 
+* 🤖 AI utilization 
 
 
 <!--
