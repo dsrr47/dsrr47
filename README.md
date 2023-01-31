@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there, I'm David👋
+
+### I'm a proven results-driven developer with 6 years of experience in frontend development using React, JavaScript and UX/UI design. I like to empowers others to achieve their potential.
+
+I"m most interested in opporutinities in: 
+* 🧼 clean energy
+* 🌲 environment
+* 🏋️ fitness and wellbeing 
+
 
 <!--
 **dsrr47/dsrr47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
