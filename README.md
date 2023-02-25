@@ -1,4 +1,4 @@
-## Yo, I'm David👋
+## Hey 👋
 
 ### I'm a proven results-driven developer with 6 years of experience in frontend development using React, JavaScript and UX/UI design. I like to empowers others to achieve their potential.
 
