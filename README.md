@@ -3,10 +3,11 @@
 ### I'm a proven results-driven developer with 6 years of experience in frontend development using React, JavaScript and UX/UI design. I like to empowers others to achieve their potential.
 
 I"m most interested in opporutinities in: 
-* 🧼 clean energy
-* 🌲 environment
-* 🏋️ fitness and wellbeing 
-* 🤖 AI utilization 
+* 🧼  Clean energy
+* 🌲  Environmental
+* 💳  Fin Tech
+* 🏋️  Fitness and wellbeing 
+* 🤖  AI utilization 
 
 
 <!--
