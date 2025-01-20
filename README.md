@@ -1,6 +1,6 @@
 ## Hey 👋
 
-### I'm a proven results-driven developer with 6 years of experience in frontend development using React, JavaScript and UX/UI design.
+### I'm a proven, results-driven frontend engineer. 
 
 I"m most interested in opporutinities in: 
 * 🧼  Clean energy
